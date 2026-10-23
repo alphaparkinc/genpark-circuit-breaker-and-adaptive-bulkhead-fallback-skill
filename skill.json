@@ -1,0 +1,8 @@
+{
+  "name": "genpark-circuit-breaker-and-adaptive-bulkhead-fallback-skill",
+  "version": "1.0.0",
+  "description": "Resilience circuit breaker state machine, adaptive concurrency bulkhead, and graceful degradation fallback arbiter",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
